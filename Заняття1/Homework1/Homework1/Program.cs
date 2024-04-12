@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Commit 1 xd");
             Console.WriteLine("Commit 2 xd");
+            Console.WriteLine("Commit 3 xd");
         }
     }
 }
